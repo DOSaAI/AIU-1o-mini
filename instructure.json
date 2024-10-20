@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "context": "I am learning about",
+            "next_words": ["AI", "programming", "data science"]
+        },
+        {
+            "id": 2,
+            "context": "How are you",
+            "next_words": ["doing", "feeling", "today"]
+        },
+        {
+            "id": 3,
+            "context": "I love to",
+            "next_words": ["code", "explore", "learn"]
+        }
+    ]
+}
